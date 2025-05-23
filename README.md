@@ -19,5 +19,5 @@ O objetivo deste desafio é criar um dashboard de vendas, com foco na organizaç
     
 ### Resultado Final do meu Projeto <br>
 <p align="start" >
-    <img width="360" heigth="360" src="https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/blob/main/images/OrganizadorImpostoRenda%20-%20Titular.png">        
+    <img width="360" heigth="360" src="https://github.com/thiagofeldner/Dashboard_Xbox_GamePass/blob/main/Images/Dashboard_Xbox_GamePass.png">        
 </p>
